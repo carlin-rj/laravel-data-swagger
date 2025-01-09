@@ -280,7 +280,7 @@ php artisan laravel-data-swagger:generate webapi
 
 
 ## 最佳实践项目请参考
-
+[https://github.com/carlin-rj/translation-system-api](翻译管理系统后端)
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request。
